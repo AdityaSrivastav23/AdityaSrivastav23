@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aditya Srivastav
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning JavaScript & DSA
-- 📖 knowledge of HTML, C Language, CSS
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Python and DSA
+- 📖 knowledge of Python ,OOPs, DSA, DBMS, HTML, CSS
 - 📩 Mail:- aditya.srivastav2308@gmail.com
 
 <!---
